@@ -1,0 +1,31 @@
+{
+	"name": "gnistdesign/gd-configs",
+	"type": "library",
+	"description": "Config files for Stylelint and ESLint.",
+	"keywords": [
+		"stylelint",
+		"eslint",
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Henrik Jakobsen",
+			"homepage": "https://gnistdesign.no/",
+			"role": "Developer"
+		},
+		{
+			"name": "Stian Andreassen",
+			"homepage": "https://gnistdesign.no/",
+			"role": "Developer"
+		},
+		{
+			"name": "Sarah Galantini",
+			"homepage": "https://gnistdesign.no/",
+			"role": "Developer"
+		}
+	],
+	"require": {},
+	"require-dev": {},
+	"support": {},
+	"prefer-stable" : true
+}
