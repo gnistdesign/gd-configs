@@ -4,7 +4,7 @@
 	"description": "Config files for Stylelint and ESLint.",
 	"keywords": [
 		"stylelint",
-		"eslint",
+		"eslint"
 	],
 	"license": "MIT",
 	"authors": [
